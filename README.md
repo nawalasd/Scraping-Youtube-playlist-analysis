@@ -30,7 +30,6 @@ key learnings from the projects  :
 6. Improved data analysis skills and insights into how data can be used to make informed decisions.
 Overall, this project has provided an opportunity to apply the skills and tools learned in data extraction, processing, cleaning, visualization, and analysis to a real-world scenario.
 
-
-
+![alt text](https://github.com/nawalasd/Scraping-Youtube-playlist-analysis/blob/master/Youtube%20playlist%20dashboard.png)
 
 
