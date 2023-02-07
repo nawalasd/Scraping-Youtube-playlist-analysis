@@ -37,7 +37,7 @@ I analysed "Meet Your Favorite Series" playlist on Sandeep Maheshwari's YouTube 
 Overall, this project has provided an opportunity to apply the skills and tools learned in data extraction, processing, cleaning, visualization, and analysis to a real-world scenario.
 
 ___
-
+## Final Dashboard
 
 ![alt text](https://github.com/nawalasd/Scraping-Youtube-playlist-analysis/blob/master/Youtube%20playlist%20dashboard.png)
 
