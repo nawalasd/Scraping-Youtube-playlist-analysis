@@ -4,6 +4,7 @@
 
 ![alt text](https://github.com/nawalasd/Scraping-Youtube-playlist-analysis/blob/master/Web%20scrapping%20(1).png)
 
+[![Watch the video](https://www.loom.com/share/3b20fb69a52d48c3a5ec82af56cd715e)
 ___
 
 ### Project background : 
