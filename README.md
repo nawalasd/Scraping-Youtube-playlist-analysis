@@ -43,6 +43,6 @@ ___
 ![alt text](https://github.com/nawalasd/Scraping-Youtube-playlist-analysis/blob/master/Youtube%20playlist%20dashboard.png)
 
 ## Let's connect on : 
-- [LinkedIn](linkedin.com/in/nawalambavkar)
+- [LinkedIn](https://www.linkedin.com/in/nawalambavkar)
 - [Medium](https://medium.com/@nawal.ambavkar)
 - [Twitter](https://twitter.com/Nawalamb)
